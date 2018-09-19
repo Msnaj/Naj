@@ -14,7 +14,7 @@
 	        <li>Ms.Najarian is the best!</li>
 	    </ol>
 		
-	<p style="text-align=center"> <strong>Have a great day!<strong></p>
+	<p><strong>Have a great day!<strong></p>
 	<img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSAgQDdY2sNvf5KPf27badpZo1LvJGrWUffzmFO0pvIXxnvpjk8jg"/>
 	</body>
 </html>
